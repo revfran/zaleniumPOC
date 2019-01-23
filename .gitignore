@@ -1,1 +1,7 @@
 venv
+.tox
+__pycache__
+demoqa.egg-info
+**/htmlcov
+*.pyc
+artifacts
